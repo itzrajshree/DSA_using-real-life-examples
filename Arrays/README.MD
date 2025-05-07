@@ -12,7 +12,7 @@ A collection of beginner-friendly Java programs using arrays for managing and an
 
 ---
 
-### ✅ [Monthly Expense Tracker](./ExpenseTracker.java)
+### ✅ [Monthly Expense Tracker](./Expense_tracker.java)
 - **Uploaded on:** May 7, 2025  
 - **Concepts Used:** Arrays, Loops, User Input, Update Operations  
 - **Description:** Tracks daily expenses for a month using a fixed-size array. Allows users to input and update expenses for each day. Displays total and average expenses, and identifies the day with the highest expense. Ensures only positive values are accepted as valid expenses.
