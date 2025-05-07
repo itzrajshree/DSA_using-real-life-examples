@@ -12,25 +12,6 @@ In this collection, you'll find simple to advanced Java programs that implement 
 
 ---
 
-## 🗂️ Current Contents
-
-### ✅ [Student Grade Tracker](./Arrays/StudentGradeTracker.java)
-- **Uploaded on:** May 7, 2025
-- **Concepts Used:** Arrays, Input Validation, Linear Search
-- **Description:** A basic Java program to store names and grades of students, calculate average, and find highest/lowest scores. Includes input validation and grade retrieval by name.
-
-### ✅ [Monthly Expense Manager](./Arrays/Expense_tracker.java)
-- **Uploaded on:** May 7, 2025
-- **Concepts Used:** Arrays, Input Validation, Looping, Conditional Logic
-- **Description:** A Java program to manage daily expenses for up to 31 days. It records expenses, allows users to update a specific day's amount, and generates a report including total expenses, average daily spending, and the day with the highest expense. Includes input validation to reject negative entries and invalid day values.
-
-### ✅ [Movie Rating System](./Arrays/MovieRatingSystem.java)
-- **Uploaded on:** May 7, 2025  
-- **Concepts Used:** 2D Arrays, Input Validation, Average Calculation, Conditional Handling  
-- **Description:** A Java program where users (max 10) can rate multiple movies (max 5). It calculates the average rating for each movie and identifies the top-rated one. Handles missing ratings using `0` and excludes them from average calculations. Input validation ensures ratings are between 1–5 or left blank with 0.
-
----
-
 ## 🧠 What You'll Learn
 
 - How to apply arrays, hash maps, queues, stacks, trees, and graphs in day-to-day logic.
