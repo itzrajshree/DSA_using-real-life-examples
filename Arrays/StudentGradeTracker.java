@@ -1,3 +1,12 @@
+/* 🔢 1. Student Grade Tracker
+Problem Statement:
+Develop a Java program to store the names and grades of students in a class. The program should calculate the average grade, and display the highest and lowest scorers.
+Constraints:
+Use two arrays: one for student names (String[]), and one for their grades (int[]).
+Limit to 50 students.
+Grades are integers between 0 and 100.
+Input must be validated (e.g., no negative grades).
+Program must allow retrieval of a student's grade by name.*/
 import java.util.*;
 
 public class StudentGradeTracker {
